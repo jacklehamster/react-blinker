@@ -1,5 +1,4 @@
-export class Hello {
-  static hello() {
-    return "Hello World!";
-  }
-}
+import { Blink } from "./Blink";
+import { BlinkUnderline } from "./BlinkUnderline";
+
+export { Blink, BlinkUnderline };
